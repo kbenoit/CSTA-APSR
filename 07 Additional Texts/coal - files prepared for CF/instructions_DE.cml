@@ -1,0 +1,92 @@
+Coding von Sätzen aus einer Parlamentsdebatte
+
+<h3>Zusammenfassung</h3>
+
+Diese Aufgabe beinhaltet 1) die Lektüre von Sätzen aus einer Debatte über die Politik im Europäischen Parlament, und 2) die Beurteilung, ob bestimmte Aussagen für oder gegen eine vorgeschlagene Politik waren.
+
+<h3>Hintergrund</h3>
+
+Die einzelnen Debatten werden von einer Debatte im Europäischen Parlament über die Beendigung der staatlichen Unterstützung für nicht wettbewerbsfähiger Steinkohlebergwerke übernommen.
+
+In der Regel werden staatliche Beihilfen für eine nationale Industrie in der Europäischen Union nicht zugelassen, allerdings gibt für einige Sektoren wie Landwirtschaft und Energie Ausnahmen. In der Debatte ging es nicht nur um die wichtige politische Frage, ob staatliche Eingriffe besser sind als der freie Markt, sondern auch um die spezifischen Probleme für einige Regionen (z.B. Ruhrgebiet in Deutschland, der Nordwesten von Spanien, das Jiu-Tal in Rumänien), wo die sozialen und wirtschaftlichen Folgen der Schließung erheblich wären, indem sie möglicherweise bis zu 100.000 Arbeitsplätze in Gefahr bringen, zumindest wenn verwandte Branchen berücksichtigt werden.
+
+Genauer gesagt, betrifft die Debatte einen Vorschlag der Europäischen Kommission, alle staatliche Unterstützung bis 2014. Die Rechtsvorschrift, die die staatliche Förderung von unrentablen Kohlengruben erlaubt, wurde im Jahr 2002 beschlossen und läuft bis 2010. Die Kommission hat vorgeschlagen die Subventionen zu beenden, aber begrenzte staatliche Unterstützung bis ins Jahr 2014 zu erlauben, um die Auswirkungen des Ausstieges zu mildern. Ein Gegenvorschlag beinhaltet diese Unterstützung bis 2018 zu verlängern, auch wenn viele Fürsprecher die Gelegenheit nutzten, sehr allgemeine Positionen zu der Frage der staatlichen Subventionen und Energiepolitik zum Ausdruck bringen.
+
+<h3>Ihr Coding Job</h3>
+
+Ihre Hauptaufgabe ist es, einzelne Sätze aus der Debatte danach zu beurteilen, welche der <strong>zwei gegensätzlichen Positionen der Satz unterstützt:</strong>:
+<ul>
+<li><strong>Unterstützung des schnellen Ausstiegs aus den Subventionen für nicht wettbewerbsfähige Steinkohlebergwerke.
+Dies war der Hauptpunkt des Vorschlages des Rates, der alle Subventionen beendet und begrenzte staatliche Beihilfen bis 2014 erlaubt.</strong><br><br></li>
+  <li><strong>Für die Fortsetzung der Subventionen für nicht wettbewerbsfähige Steinkohlebergwerke.</strong> Für starke Befüworter beinhaltete dies die Ablehnung des Kommissionsvorschlags und das Begünstigen von weiteren Subventionen auf unbestimmte Zeit. In abgeschwächter Form beinhaltete dies den Kompromiss zu unterstützen die begrenzte staatliche Unterstützung bis 2018 zu verlängern.</li>
+</ul> 
+
+
+<em>Beispiele für Antisubventions Positionen:</em>
+<ul>
+  <li>Statements, die die Stellung der Europäischen Kommission unterstützen.</li>
+  <li>Statements gegen staatliche Beihilfen in der Regel aus Gründen, dass sie den Markt verzerren.</li>
+  <li>Argumente, die für den Ausstieg der Europäischen Kommission aus den Subventionen in 2014 statt 2018.</li>
+</ul>
+
+
+<em>Beispiele für Pro-Subvention Positionen:</em>
+<ul>
+<li>Allgemeine Angriffe auf den Standpunkt der Europäischen Kommission.</li>
+  <li>Argumente für die Verzögerung des Auslaufens der Subventionen bis 2018 oder darüber hinaus.</li>
+  <li>Argumente für die Weiterbetreibung der Kohlebergwerke, um die Sicherheit der Energieversorgung zu gewährleisten.</li>
+  <li>Argumente für die Weiterbetreibung der Kohlebergwerke, um die Sicherheit der Energieversorgung zu gewährleisten.</li>
+  <li>Präferenz für europäische Kohle und gegen Importkohle, aus Gründen des Umweltschutzes oder aus Sicherheitsgründen.</li>
+  </ul>
+
+<p></p>
+
+<h3>Kodierte Probesätze</h3>
+
+Im Folgenden geben wir einige Beispiele von Sätzen aus der Debatte, mit Anweisungen, wie sie codiert werden, und warum.
+
+<h4>Beispiel 1: "Antisubventions" Erklärung:</h4>
+
+<table style="border: 1px solid black; padding: 5px; background-color: cornsilk; width: 100%;">
+  <tr><td><div style="font-family: Rockwell;">
+Die wirtschaftliche Rentabilität der Unterstützung von Arbeitsplätzen im Kohlebergbau durch staatliche Beihilfen ist negativ. Darüber hinaus wird dieses Geld nicht auf die Entwicklung nachhaltiger und wettbewerbsfähiger Arbeitsplätze für die Zukunft aufgewendet. <strong><font color="red">Deshalb glaube ich, dass es richtig ist aus der staatlichen Subventionen für nicht wettbewerbsfähige Bergwerke im Jahr 2014 auszusteigen.</font></strong> Wir sollten das Geld in Bildung investieren. Nur so kann Europa weltweit wettbewerbsfähig bleiben weltweit.
+</div></td></tr>
+</table>
+
+Der markierte Text sollte als Anti-Subvention codiert werden, denn er unterstützt das Auslaufen der Subventionen und unterstützt insbesondere die Frist bis 2014 vorgeschlagen von der Europäischen Kommission.
+
+<h4>Example 2: "Pro-subsidy" statement:</h4>
+
+<table style="border: 1px solid black; padding: 5px; background-color: cornsilk; width: 100%;">
+  <tr><td><div style="font-family: Rockwell;">
+Die Energieabhängigkeit von zahlreichen EU-Mitgliedstaaten, darunter Spanien, gefährdet die europäische Sicherheit. Wenn wir unsere Fähigkeit verlieren, unsere eigene Kohle zu produzieren, dann setzt Europa auf die Gnade ausländischer Lieferanten. <strong><font color="red">Deshalb sollten staatliche Beihilfen zur Unterstützung von Eigenerzeugung beibehalten werden.</font></strong> Dies würde sicherstellen, dass die EU die Kontrolle über die Energieversorgung behält anstatt abhängig von ausländischer Kohle zu sein. Es bewahrt auch die Erhaltung von Tausenden von Arbeitsplätzen, von denen einige Regionen Europas weitgehend abhängig sind.
+</div></td></tr>
+</table>
+
+Der markierte Text sollte als Pro-Subvention codiert werden, weil er beinhaltet, dass die staatliche Unterstützung fortgesetzt werden soll, sowohl zur Gewährleistung der Energieversorgungssicherheit als auch der Arbeitsplätze. Es gilt, die Sätze in ihrem Kontext zu sehen, wenn der hervorgehobenen Satz auf andere Sätze verweist, wie zum Beispiel das "Deshalb ..." in dem hervorgehobenen Satz.
+
+<h4>Beispiel 3: Neutral Aussagen zu beenden Kohlesubventionen</h4>
+
+<table style="border: 1px solid black; padding: 5px; background-color: cornsilk; width: 100%;">
+  <tr><td><div style="font-family: Rockwell;">
+Vielen Dank Herr Rapkay für die durchdachte Kommentare. Unsere Kolleginnen und Kollegen in diesem Parlament haben erwähnt, dass das Problem nicht neu ist. <strong><font color="red">Es ist zwar nicht neu, aber jetzt finden wir andere wirtschaftliche und soziale Bedingungen vor.</font></strong> Wir befinden uns in einer globalen Rezession und die Europäischen Union ist in der Krise. Niemand glaubt, dass wir diese Krise schon überstanden haben.
+</div></td></tr>
+</table>
+
+Der markierte Text sollte als neutral codiert werden, weil es ein allgemeiner Punkt ist, der nicht direkt mit dem Vorschlag der Europäischen Kommission im Zusammenhang steht oder auf eine Meinungsbildung für oder gegen staatlichen Subventionen abzielt.
+
+<h4>Beispiel 4: Test Sätze</h4>
+
+<table style="border: 1px solid black; padding: 5px; background-color: cornsilk; width: 100%;">
+  <tr><td><div style="font-family: Rockwell;">
+Seit mehreren Jahrzehnten fordert die Kohleindustrie die Subventionen zu verlängern, ohne dass ein Ende in Sicht ist. Für mehrere Jahrzehnte und in vielen europäischen Ländern hat man sich bemüht den Subventionen für eine unhaltbare Industrie ein Ende zu setzen. <strong><font color="red">Ignorieren Sie den Kontext und codieren sie den Satz als neutrale Aussage über Subventionen.</font></strong>  Wir unterstützen daher den Vorschlag der Europäischen Kommission und demzufolge den Vorschlag für Subventionen, so dass die betroffenen Arbeitnehmer anständig und würdevoll umgeschichtet werden können.
+</div></td></tr>
+</table>
+
+Beachten Sie, dass die umliegenden Sätze Ihre Beurteilung des Testsatzes nicht korrekt wiederspiegeln können. Allerdings, wenn Sie einen Satz wie den obigen sehen, befolgen Sie bitte die Anweisungen sorgfältig. Diese Sätze werden verwendet, um unsere Methode zu überprüfen und zu sehen, ob die Menschen aufmerksam sind!
+
+
+Wie bewerten Sie diesen Satz vor dem Hintergrund der Verlängerung der Subventionen:
+Anti-Subventionen
+Neutral oder nicht anwendbar
+Pro-Subventionen

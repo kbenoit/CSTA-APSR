@@ -1,0 +1,286 @@
+#TEXT
+We now have five complete reviews in for your APSR submission.  The reviews, as you
+can see are quite split on the piece. However after a great deal of thought and
+discussion with my colleagues on the editorial team,  we believe that there is
+considerable  potential to this paper. Thus we want to give you an opportunity to
+address the issues raised by the reviewers, and  would like to invite you to revise
+and resubmit your paper "Crowd-sourced Coding of Political Texts" (APSR-D-14-00400)
+for further consideration.
+To be quite frank, this was very difficult decision for us. The reviews, at best are
+split with reviewers 1 and 2 rather positive about the piece (although much of the
+their positive assessments are based on the potential important impact of the paper)
+whereas reviewers 3, 4, and 5 are rather negative. Reviewers 3 and 4 recommend
+rejection of the paper, and reviewer 5 recommends very major revisions.
+Despite these differences in judgments, the reviewers are actually remarkably
+similar in their assessments, both positive and negative, about the paper. As to the
+positives, all of the reviewers see great potential to this piece, and see it as
+potentially having an enormously important transformative effect on how we go about
+the business of "coding". However they all indicate, even the more positive
+reviewers, that there is great room for improvement, and that much more work needs
+to be done in order for this piece to be ready for the APSR.
+In particular there appear to be three major objections to the paper expressed by
+the reviewers.
+First, although you do an admirable job in demonstrating crowd sourcing might be a
+good alternative to expert coding, it is not clear what is being compared here - what
+is meant by "expert coding" - as Reviewer 1 notes, this can mean different things.
+This is mentioned both by reviewer 1 (who is positive about the paper) and reviewer
+4 (who recommends reject). For instance, both reviewers note that whether crowd
+sourcing is a viable alternative, and whether it really saves time and effort
+depends  on what the alternatives are (which are not described in much detail in the
+paper). As reviewer1 notes: "if this is to work correctly, experts do have to come
+up with a set of clear, detailed instructions, and they need to come up with
+numerous "gold questions" to evaluate coder quality" - then how much time and effort
+is actually saved? Reviewer 4 suggests that perhaps crowd sourcing may not replace
+expert coding, but is better used to replace "student trained" coding where
+person-power is more important than expert knowledge - but this would depend on a
+number of other issues as the reviewer points out.
+Second, as reviewers 3, 4 and 5 point out, although your paper demonstrates that the
+crowdsourcing technique may be reliable, it may not produce more valid results.
+Indeed the reviewers suggest that you really need to demonstrate that the technique
+you propose is really an effective competitor to existing techniques.  The reviewers
+suggest that one way you might do this is to apply their data to competing data
+sources in political analyses. Do your data lead to similar or distinct political
+predictions than alternative sources of the same data? This would certainly
+strengthen the persuasiveness of your core arguments in our view. Indeed, we agree
+with the "bottom line" assessment that the technique you propose rivals or is
+superior to classic content analysis with trained coders and behavioral aggregation
+schemes.
+Third, and related to the previous points, there is a question as to how well this
+technique travels beyond the simple textual example provided. Several of the
+reviewers point out that perhaps it does not travel well beyond English, and wonder
+whether the argument about the generalizability of the technique could be
+strengthened.
+Given this array of reviews, I would normally seriously consider rejecting the
+piece. However, I believe that this piece has enormous potential, and if properly
+and thoroughly revised, it COULD represent a fine addition to the APSR. For this
+reason, we believe that we can extend to you the opportunity to revise and resubmit
+the paper for further consideration. This is not a guarantee of publication, only
+that we believe that there is enough potential here to warrant taking a chance on
+the paper.
+Thus, after our own reading of the paper, we agree that major revisions need to be
+made to the piece before resubmission. In a revised piece you should respond to all
+of the points made by this group of helpful and perceptive referees.
+
+#TEXT
+I think this is an excellent paper that could transform the way scholars in our
+discipline code political texts.  Existing methods are either expert codings - which
+tend to be expensive, since experts are in short supply, and (for the same reason)
+have replicability problems - or computer-automated analyses, which have not yet
+proven reliable (at least in my opinion) in inferring meaning from words (usually
+because the context in which the words are used is ignored).  The crowd-sourcing
+method advocated in the current paper represents a viable alternative approach that
+can produce valid estimates of quantities such as issue saliency estimates and
+spatial positioning scores quickly and cheaply.  The authors are extremely careful
+both in laying out how well the crowd-sourcing of manifestos recover expert codings
+both in laying out how well the crowd-sourcing of manifestos recover expert codings
+and in outlining the process by which such crowd-sourcing should be done.  I really
+don't have many serious criticisms of the methods used by authors, and I think that
+the paper, if published, will be a highly cited "benchmark" contribution.
+That said, I would like to raise two issues.  One is that it would be easy to
+conclude by the end of the paper that crowd-sourcing is very "cheap" in that not
+much valuable expert time is needed to analyze the texts.  But if this is to work
+correctly, experts do have to come up with a set of clear, detailed instructions,
+and they need to come up with numerous "gold questions" to evaluate coder quality.
+I never got a good sense of how much expert work/time that process took, and whether
+it was any greater than (for example) the time and effort exerted by Laver and
+Benoit when they devised, sent out, and aggregated expert questionnaires.  Is the
+difference really that great, at least for a one-shot survey?  My other issue, which
+I think should be discussed in the conclusion of the paper, is whether the authors
+believe that crowd-sourcing can work equally well with other types of texts.
+Manifestos, given their purpose, are written in language ordinary voters can
+understand.
+But what about legislative speeches, which (presumably) contain more technical
+policy-specific jargon?  Or explanatory memoranda written by government ministers
+that accompany a policy proposal?  Do the authors think that crowd-sourcing would be
+equally reliable in the coding of those texts?  I suppose what I'm asking, in the
+interest of making this article somewhat more general, is that the authors make a
+statement in which they set out the limits of their proposed approach, and/or
+speculate about the conditions under which expert surveys (or automated content
+analysis) might be decidedly better than crowd-sourcing.
+
+#TEXT
+This is a path-breaking project that highlights a broader shift in how
+political science should be done - a revolution of sorts. Historically, the most
+ambitious research projects have involved expensive data collection efforts that
+depend on expert coding systems. These datasets then become the central focus of
+scholarship in a research area. As the authors note, many such projects suffer from
+path dependence due to the effort involved. Starting over is not really considered
+even as limits become apparent. If a dataset has limitations with respect to a
+particular research question, those limitations were often overlooked because 'it is
+the best we have'.
+The revolution is not just about crowdsourcing but also machine learning and even
+basic text scraping. It is about computational thinking. Sadly, these are not
+methods that are taught in most political science departments at this point.
+The methods described in this paper are not complicated or inaccessible to the
+average political scientist. The authors simply scale up a carefully designed coding
+project by taking advantage of easily available resources. Moreover, they show that
+simple approaches are as good as more complex ones. And the cost and time savings
+for getting results that are just as good, replicable, and include confidence
+intervals are huge. Three hours (ok, perhaps three months to design and validate)
+versus years and hundreds of thousands of dollars. Imagine how much farther NSF
+dollars would go if there were more projects like this.
+The paper itself is very well researched and written. The authors are quite
+transparent about the limits of their project, and they do not cut corners in terms
+of collecting the evidence needed to support their assertions about the limits of
+expert coding, awareness of the source, and the efficacy of alternative crowd
+sourcing approaches. This is a serious, mature project.
+One discussion that I was looking for that was not in the main paper was details
+about the total time and cost involved in crowdsourcing this project. Not just
+paying the workers but also the time involved for the researchers and for
+contracting with CrowdFlower? What should a user expect in terms of the stages of
+putting a project like this together? What would a grant proposal budget look like?
+Given that the paper was so transparent in other respects, this was a noteworthy
+omission.
+The other missing discussion for a lot of people is: will these methods work for my
+project? The authors simplify their task compared to the CMP - a smart defensible
+decision.  But what if I am involved in the policy agendas project, with its current
+19 major topics and 224 subtopics? Or what if my project crosses languages as in the
+CMP? Is this really the panacea the authors suggest? It would be helpful for the
+authors to reflect more on the scope of feasible projects, limitations of the worker
+bee population etc in their conclusion.
+But overall the paper is in great shape.
+
+#TEXT
+The paper, "Crowd-Sourced Coding of Political Texts," presents an
+interesting application of crowd sourcing methods as a way of gathering political
+data, specifically parties' issue positions, from content analysis.  The authors
+demonstrate two sets of analyses.  In the first set, they demonstrate the robustness
+of crowd-sourced based coding of manifesto data to a data generated using a smaller
+set of expert coders.  They additionally demonstrate that information about these
+coders (and their validity) can be explicitly used to in order to make coding of the
+overall text more valid. In the second set of analyses, the authors demonstrate that
+the method can be used to gather novel data by using crowd-sourcing to capture
+British party positions on immigration, and demonstrate its robustness in comparison
+to two types of expert coding.
+While the paper is a competent and thorough demonstration of the benefits of the use
+of crowd-sourced data to capture political party positions, I do not believe that
+the paper offers a novel enough contribution to warrant publication in the APSR, and
+I do not recommend that the paper be accepted for publication.
+Overall, this paper offers a convincing demonstration of the robustness of crowd
+sourcing. Using an expert group of coders and a crowd-sourced group of coders, the
+authors demonstrate that crowd sourcing can produce reliable estimates based on
+textual analyses, given sufficiently precise and simple coding decisions.  The
+authors are able to demonstrate that the data gathered using a crowd source produces
+nearly identical results to that created by experts using the same method of coding.
+Moreover, the authors are able to demonstrate that random sentence order coding and
+order coding, when given context, produce similar results.
+Importantly, the authors demonstrate how their method of data generation can provide
+reliable, efficient, and affordable data on party positions from data sources.   The
+authors have also been very clear about the conditions under which this data
+generating process produces reliable results - specifically, in contexts with clear
+textual sources, using a "gold standard" test to remove poor quality coders, using
+simple and thorough instructions, and with a sufficient number of coders.
+Moreover, the authors have provided thorough instructions on how to apply their
+method, which is a critically important contribution to a methods paper.
+While the paper is convincingly written and the project is very thorough in its
+execution, I am uncertain about how much of a novel contribution this paper has
+made.  As the authors note, crowd-sourcing has been used with increasing frequency
+in social science.  While the authors have demonstrated the effectiveness of this
+method for analyses of parties' policy positions, this paper does not appear to be
+the introduction of a new method.  Rather, this paper outlines, in an admittedly
+effective manner, the conditions under which the method can be utilized to produce
+certain types of data.  I do not believe this is a sufficient contribution for the
+top journal in the field.
+Moreover, while the paper has convincingly demonstrated that crowd sourcing is an
+efficient method of calculating parties' policy positions from textual data sources
+in the British context, the authors have not demonstrated the applicability of this
+method for other types of data.  Would the authors have found as reliable of
+estimates for languages other than English?  To what extent can this method of
+coding be applied to positional questions for which manifesto data is not available?
+Given that the authors have placed their method as an alternative to expert surveys,
+such as CHES, or expert textual analyses, such as the CMP, they have not in fact
+replicated some of the most complex parts of these data-sets, which is the cross-
+national, multi-lingual nature of this data.
+In order to be of APSR level impact, the authors would need to show that their data
+could truly serve as a competitor to more traditional, cross-national data sources.
+For example, in order to make the impact of their data clearer, rather than just
+demonstrating the correlations between the observations, the authors might try to
+apply their data to competing data sources in political analyses.  Does the authors'
+data lead to similar or distinct political predictions than alternative sources of
+the same data?  If so, then the authors have stronger evidence that their data can
+be used in place of alternative data sources.  If not, then the authors may want to
+discuss why their data generating process produces more valid observations.
+While the authors' main focus of this paper has been reliability, and not
+necessarily validity, I believe that this is a critical element of the paper, and
+should be discussed in greater detail.  For example, the authors mention that their
+crowd sourced data captures the shift of Labour, but do not demonstrate it.  These
+kinds of demonstrations would be very helpful in understanding the validity of the
+data.
+In this vein, while the authors are able to generally demonstrate the robustness of
+their codings, I did have one question on the Labour Parties' social estimates
+between the crowd codings and the expert codings.  While I agree with the authors
+that the overall results and correlations are convincing, in the instance of the
+social placements, the experts and the crowd place the estimates on the opposite
+side of the left-right divide.  For example, the experts place Labour at 0.45 in
+2001, while the crowd places them at -1.44.   The authors do note that the standard
+errors are greater in the case of social policy, and that the overall trend
+indicates that they can be used as replacements, but this seems like quite an
+important distinction, and the authors should probably discuss this in greater
+detail, since it seems like a potentially major weakness of their coding.
+In addition to the above, there is one minor point that the authors may wish to
+clarify.
+The authors rely very heavily on supplementary materials found in the appendix.
+However, this material is very hard to follow.  Frequently, in the main text of the
+document, the authors refer the reader to the supplementary materials in general,
+rather than any specific area of the 27 page appendix.  Moreover, much of the
+information found in the appendix has no discussion or information about how to
+situate the analyses.  Yet these analyses feel critical to understanding the paper.
+
+#TEXT
+This article aims at introducing the idea of crowd-sourcing into the
+data generation process of political science.
+The article shows that crowd sourcing can be used to generate data on party
+positions in the UK from party manifestos. The article further shows that the
+positions generated based on crowd sourcing correlate very well with both externally
+generated measures and with the results of coding from "experts" following the same
+procedure as "the crowd". The article also shows that the data collection process
+can be replicated.
+Most of the article is a well-written introduction to the technical details of crowd
+sourcing. After reading the article I am convinced that crowd sourcing could be
+potentially useful for data generation in political science. The question, however,
+is how useful.
+As I see it, this will depend on a number of factors which are not
+really carefully discussed in this version of the paper, partly because the alternative to
+crowd-sourcing is not very well described. The paper talks a lot about expert
+coding, however what that means is unclear. Expert surveys are popular because it is
+cheap to send out a questionnaire to a number of political scientists and having
+them for instance place parties on a left-right scale. However, this is only
+feasible for some very specific coding talks. The most common alternative is to
+train a number of students in a coding scheme and then pay them for coding. This is
+what is typically done for data collection where man-power is more important than
+expert knowledge. This is the type of coding which might be replaced by crowd-
+sourcing. Still how likely that is depends on several factors:
+1) What is the cost of using for instance "CrowdFlower" and how does this compare to
+hiring students? If students do it for free, that is hard to compete with. However,
+this is not the case in most countries.
+2) What if the texts you want to code are in Norwegian? Many of the best data-sets
+are cross-national. Is the crowd large enough when very specific language skills are
+required?
+3) How complex coding jobs can be done. The coding example in the text is simple.
+The paper mentions the Policy Agendas project, which has a coding scheme with +200
+topic codes. Would that work through "CrowdFlower"? Student coders need intensive
+training, but maybe crowd sourcing works without it if enough people code the same
+sentence, but then costs probably increases?
+To sum up, the pro and cons of Crowd-sourcing seem very practical. What coding jobs
+can be handled in this way and what are the costs? I am quite sure, they are some
+coding jobs for which this could be very helpful, but the paper needs much more
+discussion of the pros and cons compared to student coding.
+The leads us to the question of publication in APSR. From my perspective, the paper,
+in a revised version, would be perfect for a specialized journal such as Political
+Analysis. For APSR, I think its intellectual contribution is too limited. After all,
+Crowd-Sourcing has existed long before this paper even though it does a nice job in
+presenting it to a political science audience.
+
+#TEXT
+This paper takes on a very important and highly debated problem in political science, namely estimating parties’ policy positions. As the author(s) rightly argue early in their paper, coding political texts to estimate parties’ positions through large-scale projects is so costly that researchers are often willing to use any available "off-the-shelf" dataset even if these have been largely discredited in terms of reliability and validity (e.g. Gemenis 2013). In their search for a cheap and effective alternative to hand-coding by "experts" (usually, political science graduate students who have been trained for the coding task), the authors argue in favor of crowd-sourcing the coding of such texts by non-experts, essentially anyone with the required language skills who generates income by performing tasks in crowdsourcing websites such as Amazon’s Mechanical Turk.
+The argument is that, one needs not to rely on difficult to find (and replicate) expertise, but can substitute the few "expert" coders by many non-expert coders and produce estimates for parties’ policy positions that are as good in terms or reliability and validity. To support this argument, the authors provide extensive evidence from the expert and crowdsourced coding of British party manifestos.
+The paper makes a significant contribution in the field and I could see this being published in generalist journal such as APSR. I have, however, some reservations with regards to the argument that the paper has been built upon, as well as some points regarding the presentation of the results. Hopefully, all these can be addressed by the authors in a revision.
+Challenging the wisdom of crowds: From the very first pages (pp. 1–2), I think that the authors have misunderstood the content analysis literature (e.g. Krippendorff) with regards to the utility of having multiple coders per document. The point raised in content analysis literature is not to code the same document multiple times in order to aggregate the codings and compute measures of uncertainty. Rather, content analysis uses multiple coders in order to calculate inter-coder agreement and revise/re-design the coding scheme in such a way that would yield nearly identical results even if the document would be coded multiple times (e.g. Riffe, Lacy & Fico 2005, p. 124, p. 129). I think this distinction needs to be made clear, because the whole framework of the paper departs from content analysis and moves into the discussion of aggregating systems in the expert survey literature (e.g. Meyer & Booker 1991).
+So why do we need to have multiple coders per document? The authors reason along the "wisdom of crowds" argument, namely that the average of many judgments is better than any individual judgment. This is true, but from a forecasting point of view it still begs the question whether the the simple statistical aggregation (i.e. taking the mean or median) of the judgments will get us anywhere close to the "true" estimate. Throughout the paper, the authors adopt the position that all we need is to recruit a large number of coders who are willing to undertake a task, and we can get a valid estimate of whatever is the quantity of interest simply by taking the mean of their responses. Inasmuch the coders are not experts and/or not well-informed about the task at hand, the literature has shown that this will not be the case. In such situations, the mean will be centered "upon the mean of the erroneous judgements rather than the true value" (Rowe 1992, 158).
+A little example can help illustrate this point. The following figure uses data from the Dutch Parliamentary Election Study, where respondents have been asked to place several political parties on a number of issues. As expected, not all respondents are equally informed about politics, or the positions of parties for that matter, so the DPES also included a measure of political sophistication drawn from the answers given to twelve political knowledge questions. The figure plots the mean (with 95% CIs) position for the Socialist Party on the euthanasia issue, given by respondents, across different levels of this measure of political sophistication (values indicate the number of questions answered correctly). As is clear from the figure, knowledgeable respondents not only agree more with each other about the position of the party compared to non-knowledgeable respondents (higher values of van der Eijk’s perceptual agreement coefficient given by the diamonds), but also place the party at a different position. The vertical bar shows the mean placement of the party if all respondents are taken into account (95% CI in dashed lines). The figure shows clearly that the mean "wisdom of crowds" position is statistically indistinguishable from the mean positions of moderately to unsophisticated respondents. Moreover, the highly knowledgeable respondents place the party to the right to both the low, moderately, knowledgeable and total number of respondents, with all such comparisons being statistical significant.
+To put this otherwise: yes, a crowd will give a more informative response than any individual in the crowd, but a crowd comprising of uninformed people will give an uninformed response. What matters therefore, is not how many people are in the crowd, but to establish a mechanism in which researchers can pick and use only those from the crowd that are actually knowledgeable about the task at hand because these are the ones that give the most useful responses. The responses of all others, do not only add noise in the estimates, but can steer away the estimate from the true value (unreliability limits the chance of validity as Krippendorff 2004a, pp. 212–214 famously illustrated). Indeed, many decades ago researchers in the forecasting business have come up with methods such as Delphi that do exactly that, cleaning out the informed from the uninformed respondents/experts (for an application of Delphi to estimating parties’ positions see Gemenis & van Ham 2014).
+The authors sort of try to counter such arguments by citing studies that simple aggregation schemes perform as good as more complicated ones (p. 12), and by providing an analysis on their own data showing that simple means aggregation provides similar results to a more complex Bayesian IRT. I do not have any disagreement with this, but as pointed above, "more complicated" does not necessarily mean "more complicated statistical" as there are several behavioral methods of aggregating multiple judgments. The meta-analysis of Rowe & Wright (1999) for instance, reviewed dozens of studies that showed the superiority of Delphi aggregation schemes over simple statistical ones. Bottom line is that the authors need to do much more convincing with regards to the superiority of crowdsourcing over other i) classic content analysis with trained coders, and ii) behavioral aggregation schemes such as Delphi.
+This is not just for the sake of the debate but for reasons of efficiency. For instance, the authors claim that crowdsourcing is "inexpensive" (p. 31) since it cost them $360 to code 9 manifestos for one policy area (so $40, about 28 euros per party per policy area). Cf. this to Gemenis and van Ham (2014) who used an Delphi aggregation with 7 experts (ranging from professors to master’s students) which cost them 980 euros to code 8 parties for 6 policy areas (so 20.40 euros per party per policy area). Moreover, efficiency might be better in other methods not only in monetary terms. The results of crowdsourcing immigration policy positions (Table 4) produced wide confidence intervals that made most parties statistically indistinguishable from each other. $360 were spent just to find out that BNP and UKIP can be distinguished from all other British parties (but the other parties could not be distinguished from one another).
+Using appropriate statistical measures: Throughout the paper the authors use techniques of commendable sophistication, so I was puzzled that they did not use the widely accepted appropriate coefficients to measure inter-coder reliability and reproducibility.
+For instance, Table 3 (and Table 3 in the appendix) reports Cronbach’s alpha coefficients as a measure of "inter-coder reliability". This is puzzling since Krippendorff whom the authors cite has repeatedly demonstrated that Cronbach’s alpha does not have a meaningful interpretation as a measure of inter-coder agreement or reliability (see Hayes & Krippendorff 2007, p. 81, Krippendorff 2004a, p. 249, also the recommendations in Krippendorff 2004b). The authors should therefore re-write this section using a coefficient with meaningful interpretation in a inter-coder reliability context such as Krippendorff’s alpha. The authors should calculate the nominal version of Krippendorff’s alpha among the three upper-level categories of their coding scheme (economic, social, other), and then ordinal Krippendorff’s alpha within each of the two (economic, social), 7-point scales.
+At several places in the manuscript the authors compare party placements from different approaches (expert versus crowdsourced codings, expert surveys vs crowdsourcing, means aggregation vs IRT, etc). To do so, they use Pearson’s r which, however, can be misleading inasmuch it cannot account for systematic measurement error (see Lin 1989, p. 255–256, Krippendorff 2004a, pp. 244–245). Elsewhere (pp. 17–18, p. 27) they use linear regression for the same purpose which can also produce misleading results (see Lin 1989, 257). The authors need to recalculate the statistics for these figures and tables using the appropriate coefficient for this task CCC, which includes a bias correction factor that shows how much the points in the scatterplots deviate from the 45 degrees line of perfect concordance (Lin 1989).
