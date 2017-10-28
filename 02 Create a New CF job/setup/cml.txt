@@ -1,0 +1,25 @@
+<p>
+  {{pre_sentence}}  <strong><font color="red">
+  {{sentence_text}}</font></strong>  
+  {{post_sentence}}</p>
+  <cml:select label="Policy Area" class="" instructions="" id="" validates="required" gold="true" name="policy_area">
+    <cml:option label="Not Economic or Social" id="" value="1"></cml:option>
+    <cml:option label="Economic" value="2" id=""></cml:option>
+    <cml:option label="Social" value="3" id=""></cml:option>    
+  </cml:select>
+
+   <cml:ratings class="" from="" to="" label="Economic policy scale" points="5" name="econ_scale" only-if="policy_area:[2]" gold="true">
+    <cml:rating label="Very left" value="-2"></cml:rating>
+    <cml:rating label="Somewhat left" value="-1"></cml:rating>
+    <cml:rating label="Neither left nor right" value="0"></cml:rating>
+    <cml:rating label="Somewhat right" value="1"></cml:rating>
+    <cml:rating label="Very right" value="2"></cml:rating>
+  </cml:ratings>
+
+  <cml:ratings class="" from="" to="" label="Social policy scale" name="soc_scale" points="5" only-if="policy_area:[3]" gold="true">
+    <cml:rating label="Very liberal" value="-2"></cml:rating>
+    <cml:rating label="Somewhat liberal" value="-1"></cml:rating>
+    <cml:rating label="Neither liberal nor conservative" value="0"></cml:rating>
+    <cml:rating label="Somewhat conservative" value="1"></cml:rating>
+    <cml:rating label="Very conservative" value="2"></cml:rating>
+  </cml:ratings>
